@@ -1,7 +1,7 @@
 luku = (input('Syötä luku: '))
 
-maksimi = 0
-minimi = 0
+maksimi = luku
+minimi = luku
 
 while luku != '':
 
