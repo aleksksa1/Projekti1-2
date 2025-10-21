@@ -14,8 +14,6 @@ class Auto:
 
     def kulje(self, aika):
         self.matka = self.matka + aika * self.nopeus
-        #laske kuinka paljon kuljettu ajassa mnopeudella
-        #lisää kuljettumatka kokonaismatkaan
 
     def ominaisuudet(self):
         tulos = {"Rekisteritunnus" : self.rekisteritunnus,
